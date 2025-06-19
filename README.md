@@ -1,4 +1,4 @@
 # noodlejessie.github.io
 hello world
-<title>Hi my name is Jessie</title>
-<theme>he</theme>
+<h1>hi</h1>
+<color>#001</color>
