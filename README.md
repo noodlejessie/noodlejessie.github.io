@@ -2,5 +2,5 @@
 hello world
 <h1>hi</h1>
 :)))))
-<body { background-color:💙; }>
+<body bgcolor="#FF0000">
 
